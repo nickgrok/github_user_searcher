@@ -44,7 +44,7 @@ function testUser(){
  */
 function parser(user){
 
-		var options = {
+	var options = {
 	    host: 'api.github.com',
 	    path: '/users/'+user,
 	    headers: {'User-Agent': 'request'}
@@ -53,7 +53,7 @@ function parser(user){
 		https.get(options, function (res) {
 		    res.on('data', function (chunk) {
 		        output += chunk;
-	    });
+	  });
 	    
 	}).on('error', function (err) {
 	      console.log('Error:', err);
