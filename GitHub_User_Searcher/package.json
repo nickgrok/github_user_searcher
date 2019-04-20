@@ -1,0 +1,14 @@
+{
+	"name": "mylyftapp",
+	"version": "1.0.0",
+	"description": "This is my lyft api app",
+	"main": "lyft.js",
+	"scripts": {
+		"tests": "echo \"Error\""
+	},
+	"author": "Nicholas Grokhowsky",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.16.4"
+	}
+}
