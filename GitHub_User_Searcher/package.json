@@ -1,11 +1,11 @@
 {
   "name": "lyft",
   "version": "1.0.0",
-  "description": "This is a quick Node.js app for my application to lyft",
-  "main": "index.js",
+  "description": "This is a quick Node.js app for my application with Lyft",
+  "main": "lyft.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nicholas Grokhowsky",
   "license": "ISC"
 }
