@@ -1,14 +1,11 @@
 {
-	"name": "mylyftapp",
-	"version": "1.0.0",
-	"description": "This is my lyft api app",
-	"main": "lyft.js",
-	"scripts": {
-		"tests": "echo \"Error\""
-	},
-	"author": "Nicholas Grokhowsky",
-	"license": "ISC",
-	"dependencies": {
-		"express": "^4.16.4"
-	}
+  "name": "lyft",
+  "version": "1.0.0",
+  "description": "This is a quick Node.js app for my application to lyft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
