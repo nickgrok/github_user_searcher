@@ -2,7 +2,3 @@ This program will allow a user to choose a GitHub user name to search for and th
 
 The program is the first program I have written using NodeJS to display a webapp on a server.  Overall it is a simple program, but it is effective at performing the task it was designed to do. 
 
-If there are any questions regarding this feel free to contact me at nickgrok@gmail.com.
-
-All the best!!
-Nick
